@@ -8,3 +8,10 @@ h1{
 body {
     background-color: lightgrey;
 }
+.contenuti{
+    color: white;
+}
+footer{
+    background-color: black;
+    height: 60px;
+}
